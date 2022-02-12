@@ -1,8 +1,11 @@
 # Gain-and-Radiation-pattern-of-a-Dipole-antenna
 ## OBJECTIVE
  •	Generate radiation pattern
+ 
  •	Generate pattern Elevation
+ 
  •	Generate pattern Azimuth
+ 
 
 Antenna gain is the ability of the antenna to radiate more or less in any direction compared to a theoretical antenna. If an antenna could be made as a perfect sphere, it would radiate equally in all directions. Such an antenna is theoretically called an isotropic antenna and does not in fact exist.
 When mounted horizontally, the radiation peaks at right angles (90°) to the conductor, with nulls in the direction of the dipole. Neglecting electrical inefficiency, the antenna gain is equal to the directive gain, which is 1.5 (1.76 dBi) for a short dipole, increasing to 1.64 (2.15 dBi) for a half-wave dipole.
